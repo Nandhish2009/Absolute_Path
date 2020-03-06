@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Asset3D-0006.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\practice of unreal book\MyPath\Intermediate\Build\Win64\MyPathEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\practice of unreal book\MyPath\Plugins\Asset3D\Intermediate\Build\Win64\UE4Editor\Development\Asset3D\Module.Asset3D.cpp.obj"
+"D:\practice of unreal book\MyPath\Plugins\Asset3D\Intermediate\Build\Win64\UE4Editor\Development\Asset3D\Default.rc2.res"
+/OUT:"D:\practice of unreal book\MyPath\Plugins\Asset3D\Intermediate\Build\Win64\UE4Editor\Development\Asset3D\UE4Editor-Asset3D-0006.lib"
+/INCLUDE:IMPLEMENT_MODULE_Asset3D

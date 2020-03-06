@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Asset3D.cpp.obj": [
+			"Asset3D.cpp.obj",
+			"Asset3DCommands.cpp.obj",
+			"Asset3DStyle.cpp.obj"
+		]
+	}
+}
